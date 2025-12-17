@@ -38,10 +38,10 @@ papers:
   - Mathieu Balesdent
   bibtex: " @article{baraton2025bayesian, title={Bayesian Quality-Diversity optimization for\
      conditional search-space problems}, author={Baraton, Lucas and Urbano, Annafederica\
-      and Brevault, Lo{\xEF\i}c and Balesdent, Mathieu}, journal={Optimization and Engineering},\
+      and Brevault, Loic and Balesdent, Mathieu}, journal={Optimization and Engineering},\
   pages={1--46}, year={2025}, publisher={Springer} }"
   pdfurl: https://www.researchsquare.com/article/rs-5440487/v1
-  title: "Bayesian Quality\u2013ptimization for conditional search-space problems"
+  title: "Bayesian Quality-Diversity optimization for conditional search-space problems"
   year: 2025
   
 - abstract: 'Policy optimization seeks the best solution to a control problem according
