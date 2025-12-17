@@ -1,5 +1,49 @@
 papers:
 
+- abstract: 'The preliminary design and optimization of aerospace systems often 
+
+  requires to make architectural and technological choices and to perform computationally
+
+  expensive numerical simulations. In early design phases, the decision makers may be 
+ 
+  interested in obtaining a set of valuable solutions presenting a diversity of 
+ 
+  characteristics. This paper proposes two approaches tackling these challenges by 
+ 
+  formulating and solving a particular optimization problem. The latter is called 
+ 
+  Conditional Search-Space Problem because architectural and technological choices 
+ 
+  are represented by design variables, called conditional, which are acting on the 
+ 
+  structure of the optimization problem (e.g., number of design variables and constraints).
+ 
+  To produce a broad diversity of solutions, a Quality-Diversity (QD) algorithm adapted 
+  
+  to deal with conditional variables and expensive functions is developed. The proposed 
+  
+  methods consist in decomposing the optimization problem in several subproblems that 
+  
+  have a non-conditional structure. A Bayesian optimization strategy coupled with a QD 
+  
+  algorithm is used to search for potential solutions among the subproblems. The most 
+  
+  performing potential solutions are then evaluated with the exact functions. 
+  
+  The methodology is tested on two analytical and an aerospace system design problems.'
+  authors:
+  - Lucas Baraton
+  - AnnaFederica Urbano
+  - Loic Brevault
+  - Mathieu Balesdent
+  bibtex: " @article{baraton2025bayesian, title={Bayesian Quality-Diversity optimization for\
+     conditional search-space problems}, author={Baraton, Lucas and Urbano, Annafederica\
+      and Brevault, Lo{\xEF\i}c and Balesdent, Mathieu}, journal={Optimization and Engineering},\
+  pages={1--46}, year={2025}, publisher={Springer} }"
+  pdfurl: https://www.researchsquare.com/article/rs-5440487/v1
+  title: "Bayesian Quality\u2013ptimization for conditional search-space problems"
+  year: 2025
+  
 - abstract: 'Policy optimization seeks the best solution to a control problem according
     to
 
